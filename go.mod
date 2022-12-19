@@ -153,7 +153,7 @@ require (
 	github.com/prometheus/prometheus v0.38.0
 	github.com/stretchr/testify v1.8.0
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
-	go.uber.org/multierr v1.8.0
+	go.uber.org/multierr v1.9.0
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
 )
 
