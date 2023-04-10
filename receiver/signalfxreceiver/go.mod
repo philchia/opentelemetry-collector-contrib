@@ -9,10 +9,10 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/splunk v0.59.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/signalfx v0.59.0
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.2
 	go.opencensus.io v0.23.0
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
-	go.opentelemetry.io/collector/pdata v0.59.1-0.20220907232555-bef9373cfc20
+	go.opentelemetry.io/collector/pdata v1.0.0-rc9
 	go.opentelemetry.io/collector/semconv v0.59.1-0.20220907232555-bef9373cfc20
 	go.uber.org/zap v1.23.0
 
@@ -66,13 +66,13 @@ require (
 	go.opentelemetry.io/otel/metric v0.31.0 // indirect
 	go.opentelemetry.io/otel/trace v1.9.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
-	go.uber.org/multierr v1.8.0 // indirect
-	golang.org/x/net v0.0.0-20220520000938-2e3eb7b945c2 // indirect
-	golang.org/x/sys v0.0.0-20220808155132-1c4a2a72c664 // indirect
-	golang.org/x/text v0.3.7 // indirect
-	google.golang.org/genproto v0.0.0-20220519153652-3a47de7e79bd // indirect
-	google.golang.org/grpc v1.49.0 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	go.uber.org/multierr v1.10.0 // indirect
+	golang.org/x/net v0.8.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/text v0.8.0 // indirect
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f // indirect
+	google.golang.org/grpc v1.54.0 // indirect
+	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
