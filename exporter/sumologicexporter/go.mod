@@ -7,7 +7,7 @@ require (
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
 	go.opentelemetry.io/collector/pdata v0.59.1-0.20220907232555-bef9373cfc20
 	go.uber.org/atomic v1.10.0
-	go.uber.org/multierr v1.8.0
+	go.uber.org/multierr v1.11.0
 )
 
 require (
