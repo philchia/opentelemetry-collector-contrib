@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/mongod
 go 1.18
 
 require (
-	github.com/cenkalti/backoff/v4 v4.1.3
+	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/mongodb-forks/digest v1.0.4
 	go.mongodb.org/atlas v0.16.0
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
