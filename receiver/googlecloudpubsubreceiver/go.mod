@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	cloud.google.com/go/pubsub v1.25.1
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.3
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
 	go.opentelemetry.io/collector/pdata v0.59.1-0.20220907232555-bef9373cfc20
 	go.uber.org/atomic v1.10.0
