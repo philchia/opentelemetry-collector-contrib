@@ -6,7 +6,7 @@ require (
 	github.com/dynatrace-oss/dynatrace-metric-utils-go v0.5.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.59.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/resourcetotelemetry v0.59.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.3
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
 	go.opentelemetry.io/collector/pdata v0.59.1-0.20220907232555-bef9373cfc20
 	go.uber.org/zap v1.23.0
