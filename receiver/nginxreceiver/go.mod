@@ -6,7 +6,7 @@ require (
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/nginxinc/nginx-prometheus-exporter v0.8.1-0.20201110005315-f5a5f8086c19
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/scrapertest v0.59.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.3
 	github.com/testcontainers/testcontainers-go v0.13.0
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
 	go.opentelemetry.io/collector/pdata v0.59.1-0.20220907232555-bef9373cfc20
