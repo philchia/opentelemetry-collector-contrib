@@ -8,7 +8,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/proxy v0.59.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/xray v0.59.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.59.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.4
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
 	go.opentelemetry.io/collector/semconv v0.59.1-0.20220907232555-bef9373cfc20
 	go.uber.org/multierr v1.8.0
