@@ -9,17 +9,16 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/splunk v0.59.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/batchperresourceattr v0.59.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/opencensus v0.59.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.59.1-0.20220907232555-bef9373cfc20
 	go.opentelemetry.io/collector/pdata v0.59.1-0.20220907232555-bef9373cfc20
 	go.opentelemetry.io/collector/semconv v0.59.1-0.20220907232555-bef9373cfc20
-	go.uber.org/multierr v1.8.0
-	go.uber.org/zap v1.23.0
+	go.uber.org/multierr v1.10.0
+	go.uber.org/zap v1.26.0
 	google.golang.org/protobuf v1.28.1
 )
 
 require (
-	github.com/benbjohnson/clock v1.3.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
