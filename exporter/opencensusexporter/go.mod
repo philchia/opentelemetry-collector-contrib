@@ -18,7 +18,7 @@ require (
 	go.opentelemetry.io/collector/exporter v0.89.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
 	go.opentelemetry.io/collector/receiver v0.89.0
-	google.golang.org/grpc v1.59.0
+	google.golang.org/grpc v1.60.0
 )
 
 require (
