@@ -15,7 +15,7 @@ require (
 	github.com/sijms/go-ora/v2 v2.7.20
 	github.com/snowflakedb/gosnowflake v1.6.25
 	github.com/stretchr/testify v1.8.4
-	github.com/testcontainers/testcontainers-go v0.26.0
+	github.com/testcontainers/testcontainers-go v0.27.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
@@ -36,7 +36,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/JohnCGriffin/overflow v0.0.0-20211019200055-46fa312c352c // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
-	github.com/Microsoft/hcsshim v0.11.1 // indirect
+	github.com/Microsoft/hcsshim v0.11.4 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/antonmedv/expr v1.15.3 // indirect
 	github.com/apache/arrow/go/v12 v12.0.1 // indirect
@@ -56,7 +56,7 @@ require (
 	github.com/aws/smithy-go v1.16.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/containerd/containerd v1.7.7 // indirect
+	github.com/containerd/containerd v1.7.11 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/cpuguy83/dockercfg v0.3.1 // indirect
 	github.com/danieljoos/wincred v1.1.2 // indirect
@@ -113,7 +113,7 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
-	github.com/shirou/gopsutil/v3 v3.23.10 // indirect
+	github.com/shirou/gopsutil/v3 v3.23.11 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
@@ -132,7 +132,7 @@ require (
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.18.0 // indirect
 	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/term v0.14.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.15.0 // indirect
