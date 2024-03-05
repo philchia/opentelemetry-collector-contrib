@@ -7,7 +7,7 @@ require (
 	github.com/docker/go-connections v0.4.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.89.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/testcontainers/testcontainers-go v0.26.0
 	go.opentelemetry.io/collector v0.89.0
 	go.opentelemetry.io/collector/component v0.89.0
