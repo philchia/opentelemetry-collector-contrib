@@ -10,7 +10,7 @@ require (
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/extension v0.89.0
-	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018
+	go.opentelemetry.io/collector/featuregate v1.3.0
 	go.uber.org/zap v1.26.0
 )
 
