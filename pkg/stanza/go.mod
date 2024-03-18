@@ -26,7 +26,7 @@ require (
 	go.uber.org/zap v1.26.0
 	golang.org/x/sys v0.14.0
 	golang.org/x/text v0.14.0
-	gonum.org/v1/gonum v0.14.0
+	gonum.org/v1/gonum v0.15.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
