@@ -10,7 +10,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/batchperresourceattr v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.89.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/testcontainers/testcontainers-go v0.26.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector/component v0.89.0
@@ -21,7 +21,7 @@ require (
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/exporter v0.89.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
-	go.opentelemetry.io/collector/semconv v0.89.0
+	go.opentelemetry.io/collector/semconv v0.97.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.26.0
 	gopkg.in/yaml.v3 v3.0.1
