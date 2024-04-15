@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.47.10
 	github.com/stretchr/testify v1.8.4
 	go.opentelemetry.io/collector/component v0.89.0
-	go.uber.org/zap v1.26.0
+	go.uber.org/zap v1.27.0
 )
 
 require (
