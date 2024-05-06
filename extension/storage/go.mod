@@ -6,7 +6,7 @@ require (
 	github.com/jackc/pgx/v4 v4.18.1
 	github.com/mattn/go-sqlite3 v1.14.18
 	github.com/stretchr/testify v1.8.4
-	go.etcd.io/bbolt v1.3.8
+	go.etcd.io/bbolt v1.3.10
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/extension v0.89.0
