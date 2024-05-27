@@ -4,10 +4,10 @@ go 1.20
 
 require (
 	github.com/cenkalti/backoff/v4 v4.2.1
-	github.com/influxdata/influxdb-observability/common v0.5.8
+	github.com/influxdata/influxdb-observability/common v0.5.12
 	github.com/influxdata/influxdb-observability/otel2influx v0.5.8
 	github.com/influxdata/line-protocol/v2 v2.2.1
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
 	go.opentelemetry.io/collector/config/configopaque v0.89.0
@@ -52,7 +52,7 @@ require (
 	go.opentelemetry.io/collector/extension/auth v0.89.0 // indirect
 	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018 // indirect
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018 // indirect
-	go.opentelemetry.io/collector/semconv v0.89.0 // indirect
+	go.opentelemetry.io/collector/semconv v0.101.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.46.0 // indirect
 	go.opentelemetry.io/otel v1.20.0 // indirect
 	go.opentelemetry.io/otel/metric v1.20.0 // indirect
