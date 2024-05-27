@@ -6,7 +6,7 @@ require (
 	github.com/gorilla/mux v1.8.1
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/sharedcomponent v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/skywalking v0.89.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/configgrpc v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
@@ -16,7 +16,7 @@ require (
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
 	go.opentelemetry.io/collector/receiver v0.89.0
-	go.opentelemetry.io/collector/semconv v0.89.0
+	go.opentelemetry.io/collector/semconv v0.101.0
 	go.uber.org/multierr v1.11.0
 	google.golang.org/grpc v1.59.0
 	google.golang.org/protobuf v1.31.0
