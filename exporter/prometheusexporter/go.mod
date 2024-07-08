@@ -11,10 +11,10 @@ require (
 	github.com/prometheus/client_model v0.5.0
 	github.com/prometheus/common v0.45.0
 	github.com/prometheus/prometheus v0.47.2
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
-	go.opentelemetry.io/collector/config/configtls v0.89.0
+	go.opentelemetry.io/collector/config/configtls v0.104.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/exporter v0.89.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
@@ -144,7 +144,7 @@ require (
 	go.opentelemetry.io/collector v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/configauth v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/configcompression v0.89.0 // indirect
-	go.opentelemetry.io/collector/config/configopaque v0.89.0 // indirect
+	go.opentelemetry.io/collector/config/configopaque v1.11.0 // indirect
 	go.opentelemetry.io/collector/config/configtelemetry v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/internal v0.89.0 // indirect
 	go.opentelemetry.io/collector/consumer v0.89.0 // indirect
