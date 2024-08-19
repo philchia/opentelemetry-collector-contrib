@@ -10,10 +10,10 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/sharedcomponent v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/splunk v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.89.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
-	go.opentelemetry.io/collector/config/configtls v0.89.0
+	go.opentelemetry.io/collector/config/configtls v1.13.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/exporter v0.89.0
@@ -53,7 +53,7 @@ require (
 	go.opentelemetry.io/collector v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/configauth v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/configcompression v0.89.0 // indirect
-	go.opentelemetry.io/collector/config/configopaque v0.89.0 // indirect
+	go.opentelemetry.io/collector/config/configopaque v1.13.0 // indirect
 	go.opentelemetry.io/collector/config/configtelemetry v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/internal v0.89.0 // indirect
 	go.opentelemetry.io/collector/extension v0.89.0 // indirect
