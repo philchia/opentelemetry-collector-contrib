@@ -7,11 +7,11 @@ go 1.20
 
 require (
 	github.com/Azure/go-amqp v1.0.2
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector/component v0.89.0
-	go.opentelemetry.io/collector/config/configopaque v0.89.0
-	go.opentelemetry.io/collector/config/configtls v0.89.0
+	go.opentelemetry.io/collector/config/configopaque v1.18.0
+	go.opentelemetry.io/collector/config/configtls v1.18.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
