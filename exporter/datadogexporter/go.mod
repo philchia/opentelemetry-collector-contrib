@@ -14,7 +14,7 @@ require (
 	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/metrics v0.8.1
 	github.com/DataDog/opentelemetry-mapping-go/pkg/quantile v0.8.1
 	github.com/DataDog/sketches-go v1.4.3
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.20.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.25.0
 	github.com/aws/aws-sdk-go v1.47.10
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/ecsutil v0.89.0
@@ -51,8 +51,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/compute v1.23.0 // indirect
-	cloud.google.com/go/compute/metadata v0.2.4-0.20230617002413-005d2dfb6b68 // indirect
+	cloud.google.com/go/compute/metadata v0.5.2 // indirect
 	contrib.go.opencensus.io/exporter/prometheus v0.4.2 // indirect
 	github.com/DataDog/datadog-agent/pkg/obfuscate v0.50.0-rc.1 // indirect
 	github.com/DataDog/datadog-agent/pkg/remoteconfig/state v0.50.0-rc.1 // indirect
@@ -211,7 +210,7 @@ require (
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/net v0.18.0 // indirect
 	golang.org/x/oauth2 v0.14.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/sys v0.25.0 // indirect
 	golang.org/x/term v0.14.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.4.0 // indirect
