@@ -7,7 +7,7 @@ require (
 	github.com/google/uuid v1.4.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8sconfig v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/k8stest v0.89.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector v0.89.0
 	go.opentelemetry.io/collector/component v0.89.0
@@ -18,7 +18,7 @@ require (
 	go.opentelemetry.io/collector/processor v0.89.0
 	go.opentelemetry.io/collector/receiver v0.89.0
 	go.opentelemetry.io/collector/receiver/otlpreceiver v0.89.0
-	go.opentelemetry.io/collector/semconv v0.89.0
+	go.opentelemetry.io/collector/semconv v0.113.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.26.0
 	k8s.io/api v0.28.3
@@ -49,7 +49,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/gnostic-models v0.6.8 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
-	github.com/hashicorp/go-version v1.6.0 // indirect
+	github.com/hashicorp/go-version v1.7.0 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
