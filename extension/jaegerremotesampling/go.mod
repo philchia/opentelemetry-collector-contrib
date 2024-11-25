@@ -6,14 +6,14 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/jaegertracing/jaeger v1.48.0
 	github.com/spf13/viper v1.16.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/tilinna/clock v1.1.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/configgrpc v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
 	go.opentelemetry.io/collector/config/confignet v0.89.0
-	go.opentelemetry.io/collector/config/configopaque v0.89.0
-	go.opentelemetry.io/collector/config/configtls v0.89.0
+	go.opentelemetry.io/collector/config/configopaque v1.20.0
+	go.opentelemetry.io/collector/config/configtls v1.20.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/extension v0.89.0
 	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018
@@ -25,7 +25,7 @@ require (
 	github.com/apache/thrift v0.19.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
-	github.com/fsnotify/fsnotify v1.7.0 // indirect
+	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
