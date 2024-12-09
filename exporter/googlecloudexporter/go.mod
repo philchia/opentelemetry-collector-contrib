@@ -4,11 +4,11 @@ go 1.20
 
 require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/collector v0.44.1-0.20231113185509-337c81d87781
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/exporter v0.89.0
-	go.opentelemetry.io/collector/featuregate v1.0.0-rcv0018
+	go.opentelemetry.io/collector/featuregate v1.21.0
 )
 
 require (
@@ -32,7 +32,7 @@ require (
 	github.com/google/s2a-go v0.1.7 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
 	github.com/googleapis/gax-go/v2 v2.12.0 // indirect
-	github.com/hashicorp/go-version v1.6.0 // indirect
+	github.com/hashicorp/go-version v1.7.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/knadh/koanf/maps v0.1.1 // indirect
 	github.com/knadh/koanf/providers/confmap v0.1.0 // indirect
