@@ -25,7 +25,7 @@ require (
 	go.opentelemetry.io/collector/processor v0.89.0
 	go.opentelemetry.io/collector/semconv v0.89.0
 	go.uber.org/multierr v1.11.0
-	go.uber.org/zap v1.26.0
+	go.uber.org/zap v1.27.0
 	k8s.io/apimachinery v0.28.3
 	k8s.io/client-go v0.28.3
 )
