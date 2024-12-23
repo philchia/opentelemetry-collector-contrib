@@ -12,7 +12,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/prometheus v0.89.0
 	github.com/prometheus/common v0.45.0
 	github.com/prometheus/prometheus v0.47.2
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
@@ -23,7 +23,7 @@ require (
 	go.opentelemetry.io/collector/processor v0.89.0
 	go.opentelemetry.io/collector/processor/batchprocessor v0.89.0
 	go.opentelemetry.io/collector/receiver v0.89.0
-	go.opentelemetry.io/collector/semconv v0.89.0
+	go.opentelemetry.io/collector/semconv v0.116.0
 	go.uber.org/zap v1.26.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/yaml.v2 v2.4.0
@@ -101,7 +101,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-retryablehttp v0.7.4 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
-	github.com/hashicorp/go-version v1.6.0 // indirect
+	github.com/hashicorp/go-version v1.7.0 // indirect
 	github.com/hashicorp/golang-lru v1.0.2 // indirect
 	github.com/hashicorp/nomad/api v0.0.0-20230718173136-3a687930bd3e // indirect
 	github.com/hashicorp/serf v0.10.1 // indirect
