@@ -10,10 +10,10 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/sharedcomponent v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/splunk v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.89.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
-	go.opentelemetry.io/collector/config/configtls v0.89.0
+	go.opentelemetry.io/collector/config/configtls v1.22.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/exporter v0.89.0
@@ -28,7 +28,7 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
-	github.com/fsnotify/fsnotify v1.7.0 // indirect
+	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
@@ -53,7 +53,7 @@ require (
 	go.opentelemetry.io/collector v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/configauth v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/configcompression v0.89.0 // indirect
-	go.opentelemetry.io/collector/config/configopaque v0.89.0 // indirect
+	go.opentelemetry.io/collector/config/configopaque v1.22.0 // indirect
 	go.opentelemetry.io/collector/config/configtelemetry v0.89.0 // indirect
 	go.opentelemetry.io/collector/config/internal v0.89.0 // indirect
 	go.opentelemetry.io/collector/extension v0.89.0 // indirect
