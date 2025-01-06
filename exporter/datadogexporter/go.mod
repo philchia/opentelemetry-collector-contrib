@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/datado
 go 1.20
 
 require (
-	github.com/DataDog/agent-payload/v5 v5.0.89
+	github.com/DataDog/agent-payload/v5 v5.0.140
 	github.com/DataDog/datadog-agent/pkg/proto v0.50.0-rc.1
 	github.com/DataDog/datadog-agent/pkg/trace v0.50.0-rc.1
 	github.com/DataDog/datadog-api-client-go/v2 v2.18.0
