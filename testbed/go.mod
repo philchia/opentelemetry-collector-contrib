@@ -33,12 +33,12 @@ require (
 	github.com/prometheus/common v0.45.0
 	github.com/prometheus/prometheus v0.47.2
 	github.com/shirou/gopsutil/v3 v3.23.10
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/configcompression v0.89.0
 	go.opentelemetry.io/collector/config/configgrpc v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
-	go.opentelemetry.io/collector/config/confignet v0.89.0
+	go.opentelemetry.io/collector/config/confignet v1.23.0
 	go.opentelemetry.io/collector/config/configtls v0.89.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
