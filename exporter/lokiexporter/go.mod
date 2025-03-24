@@ -1,6 +1,7 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/lokiexporter
 
 go 1.20
+toolchain go1.24.1
 
 require (
 	github.com/cenkalti/backoff/v4 v4.2.1
@@ -9,13 +10,13 @@ require (
 	github.com/grafana/loki/pkg/push v0.0.0-20230127072203-4e8cc8d71928
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/loki v0.89.0
 	github.com/prometheus/common v0.45.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector v0.89.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/config/confighttp v0.89.0
-	go.opentelemetry.io/collector/config/configopaque v0.89.0
-	go.opentelemetry.io/collector/config/configtls v0.89.0
+	go.opentelemetry.io/collector/config/configopaque v1.28.1
+	go.opentelemetry.io/collector/config/configtls v1.28.1
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/exporter v0.89.0
@@ -30,7 +31,7 @@ require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dennwc/varint v1.0.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
-	github.com/fsnotify/fsnotify v1.7.0 // indirect
+	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/go-logr/logr v1.3.0 // indirect
