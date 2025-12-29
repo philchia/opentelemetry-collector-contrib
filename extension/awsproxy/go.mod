@@ -1,13 +1,13 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/extension/awsproxy
 
-go 1.20
+go 1.24.0
 
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/proxy v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.89.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.11.1
 	go.opentelemetry.io/collector/component v0.89.0
-	go.opentelemetry.io/collector/config/confignet v0.89.0
+	go.opentelemetry.io/collector/config/confignet v1.48.0
 	go.opentelemetry.io/collector/config/configtls v0.89.0
 	go.opentelemetry.io/collector/confmap v0.89.0
 	go.opentelemetry.io/collector/extension v0.89.0
