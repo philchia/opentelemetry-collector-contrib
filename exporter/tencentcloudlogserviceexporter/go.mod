@@ -1,6 +1,6 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/tencentcloudlogserviceexporter
 
-go 1.20
+go 1.23
 
 require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.89.0
@@ -14,7 +14,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
 	go.opentelemetry.io/collector/semconv v0.89.0
 	go.uber.org/zap v1.26.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.36.11
 )
 
 require (
