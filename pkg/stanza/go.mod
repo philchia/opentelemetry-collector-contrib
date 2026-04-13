@@ -1,6 +1,6 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza
 
-go 1.20
+go 1.25.0
 
 require (
 	github.com/antonmedv/expr v1.15.3
@@ -24,7 +24,7 @@ require (
 	go.opentelemetry.io/collector/receiver v0.89.0
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.26.0
-	golang.org/x/sys v0.14.0
+	golang.org/x/sys v0.43.0
 	golang.org/x/text v0.14.0
 	gonum.org/v1/gonum v0.14.0
 	gopkg.in/yaml.v2 v2.4.0
