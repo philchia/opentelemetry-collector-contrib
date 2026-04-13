@@ -1,6 +1,6 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/azureeventhubreceiver
 
-go 1.20
+go 1.23.0
 
 require (
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0
@@ -10,14 +10,14 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/stanza v0.89.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/azure v0.89.0
 	github.com/relvacode/iso8601 v1.3.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/collector/component v0.89.0
 	go.opentelemetry.io/collector/consumer v0.89.0
 	go.opentelemetry.io/collector/extension v0.89.0
 	go.opentelemetry.io/collector/otelcol v0.89.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
 	go.opentelemetry.io/collector/receiver v0.89.0
-	go.opentelemetry.io/collector/semconv v0.89.0
+	go.opentelemetry.io/collector/semconv v0.128.0
 	go.uber.org/zap v1.26.0
 )
 
@@ -50,7 +50,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/uuid v1.4.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.1 // indirect
-	github.com/hashicorp/go-version v1.6.0 // indirect
+	github.com/hashicorp/go-version v1.7.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/influxdata/go-syslog/v3 v3.0.1-0.20210608084020-ac565dc76ba6 // indirect
 	github.com/jpillora/backoff v1.0.0 // indirect
