@@ -43,7 +43,7 @@ jobs:
       GOGC: 50
       GOMEMLIMIT: 2GiB
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - if: matrix.group == 'receiver-0'
         name: install IIS
         run: Install-WindowsFeature -name Web-Server -IncludeManagementTools
