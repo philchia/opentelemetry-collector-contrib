@@ -1,6 +1,6 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver
 
-go 1.20
+go 1.23
 
 require (
 	github.com/jaegertracing/jaeger v1.48.0
@@ -15,7 +15,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.0.0-rcv0018
 	go.opentelemetry.io/collector/receiver v0.89.0
 	go.opentelemetry.io/collector/semconv v0.89.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.36.12
 )
 
 require (
